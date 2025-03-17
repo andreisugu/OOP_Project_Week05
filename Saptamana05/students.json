@@ -1,0 +1,22 @@
+[
+  {
+    "nume": "Marcel",
+    "anStudii": 2,
+    "grupa": 4
+  },
+  {
+    "nume": "Mircea",
+    "anStudii": 3,
+    "grupa": 1
+  },
+  {
+    "nume": "Marcela",
+    "anStudii": 1,
+    "grupa": 1
+  },
+  {
+    "nume": "AnaArePere",
+    "anStudii": 4,
+    "grupa": 4
+  }
+]
